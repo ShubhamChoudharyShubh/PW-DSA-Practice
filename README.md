@@ -17,3 +17,4 @@ You are free to use the code and assignments in this repository for educational 
 
 Contributing
 I welcome contributions to this repository in the form of suggestions, bug reports, or pull requests. If you find any issues with the code or have any suggestions for improvement, please feel free to open an issue or submit a pull request.
+![image](https://user-images.githubusercontent.com/96586771/237058056-2e5ccff2-1ab8-41cf-aa64-b80620dc708a.png)
